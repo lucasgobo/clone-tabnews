@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Meu primeiro projeto - curso.dev - 20-12</h1>
+    return <h1>Alyne eu te amo!</h1>
 }
 
 export default Home;
